@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an idea for Googol
 title: ''
 labels: enhancement
 assignees: ''
@@ -11,4 +11,4 @@ assignees: ''
 [Yes/No].
 
 **Why should this be added?**
-[Explain why this feature should be added to googol]
+[Explain why this feature should be added to Googol]
