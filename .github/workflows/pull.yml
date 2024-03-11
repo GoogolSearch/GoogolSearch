@@ -22,7 +22,7 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         close-pr-message: 'Please do NOT open pull requests, use issues instead.'
-        stale-pr-label: False
+        stale-pr-label: ''
         close-pr-label: 'no-pr'
         days-before-issue-stale: 99999999
         days-before-pr-stale: 0
